@@ -1,0 +1,8 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.testimonial {
+    background-image: url('img/img-05.jpg');
+    background-size: cover;
+}
